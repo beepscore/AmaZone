@@ -11,6 +11,9 @@
 @interface AmaZoneAppDelegate : NSObject <NSApplicationDelegate> {
     NSWindow *window;
     
+    NSXMLDocument *doc;
+    NSArray *itemNodes;
+    
     IBOutlet NSProgressIndicator *progress;
     IBOutlet NSTextField *searchField;
     IBOutlet NSTableView *tableView;
