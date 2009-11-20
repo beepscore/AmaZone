@@ -7,6 +7,7 @@
 //
 
 #import "AmaZoneAppDelegate.h"
+#import "BSGlobalValues.h"
 
 @implementation AmaZoneAppDelegate
 
