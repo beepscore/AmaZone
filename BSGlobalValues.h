@@ -10,6 +10,7 @@
 
 
 // #define MAX_COUNT (100)
+#define AWS_ID @"AKIAI4OI32WLAFUF7WRA"
 
 //extern NSString * const BSIdCodeKey;
 
